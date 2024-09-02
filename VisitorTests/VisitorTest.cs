@@ -5,7 +5,7 @@
 *
 * Product     = SoftwareDesignPatterns
 * 
-* Project     = VisitorPatternDemo
+* Project     = VisitorTests
 *
 * Description = This file contains the implementation of the Visitor design pattern.
 *               It defines a `School` class that represents an object structure 
